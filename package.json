@@ -1,0 +1,28 @@
+{
+    "name": "grandonk-dark",
+    "displayName": "Grandonk Dark",
+    "description": "Grandonk Dark Theme",
+    "version": "0.0.1",
+    "publisher": "RizalGrandonk",
+    "keywords":[
+        "theme",
+        "dark theme",
+        "grandonk",
+        "grandonk dark"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Grandonk Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Grandonk Dark-color-theme.json"
+            }
+        ]
+    }
+}
