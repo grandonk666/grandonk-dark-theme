@@ -4,6 +4,10 @@
     "description": "Grandonk Dark Theme",
     "version": "0.0.1",
     "publisher": "RizalGrandonk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/grandonk666/grandonk-dark-theme"
+    },
     "keywords":[
         "theme",
         "dark theme",
